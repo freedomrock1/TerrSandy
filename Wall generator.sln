@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wall generator", "Wall generator.csproj", "{FBDD213A-E9B9-42FB-B5E6-BDE1145E5BFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBDD213A-E9B9-42FB-B5E6-BDE1145E5BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBDD213A-E9B9-42FB-B5E6-BDE1145E5BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBDD213A-E9B9-42FB-B5E6-BDE1145E5BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBDD213A-E9B9-42FB-B5E6-BDE1145E5BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

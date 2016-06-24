@@ -1,0 +1,18 @@
+C:\Users\Jack\OneDrive\Projects\Wall generator\bin\Debug\Wall generator.exe.config
+F:\Users\Jack\OneDrive\Projects\Wall generator\bin\Debug\Wall generator.exe.config
+F:\Users\Jack\OneDrive\Projects\Wall generator\obj\Debug\Wall generator.exe
+F:\Users\Jack\OneDrive\Projects\Wall generator\obj\Debug\Wall generator.pdb
+F:\Users\Jack\OneDrive\Projects\Wall generator\bin\Debug\Wall generator.exe
+F:\Users\Jack\OneDrive\Projects\Wall generator\bin\Debug\Wall generator.pdb
+F:\Users\Jack\OneDrive\Projects\Wall generator\obj\Debug\Wall generator.csprojResolveAssemblyReference.cache
+F:\Users\Jack\OneDrive\Projects\Wall generator\obj\Debug\Wall_generator.WallGenerator.resources
+F:\Users\Jack\OneDrive\Projects\Wall generator\obj\Debug\Wall_generator.Properties.Resources.resources
+F:\Users\Jack\OneDrive\Projects\Wall generator\obj\Debug\Wall generator.csproj.GenerateResource.Cache
+C:\Users\Jack\OneDrive\Projects\Wall generator\obj\Debug\Wall generator.exe
+C:\Users\Jack\OneDrive\Projects\Wall generator\bin\Debug\Wall generator.exe
+C:\Users\Jack\OneDrive\Projects\Wall generator\bin\Debug\Wall generator.pdb
+C:\Users\Jack\OneDrive\Projects\Wall generator\obj\Debug\Wall generator.csprojResolveAssemblyReference.cache
+C:\Users\Jack\OneDrive\Projects\Wall generator\obj\Debug\Wall_generator.WallGenerator.resources
+C:\Users\Jack\OneDrive\Projects\Wall generator\obj\Debug\Wall_generator.Properties.Resources.resources
+C:\Users\Jack\OneDrive\Projects\Wall generator\obj\Debug\Wall generator.csproj.GenerateResource.Cache
+C:\Users\Jack\OneDrive\Projects\Wall generator\obj\Debug\Wall generator.pdb
